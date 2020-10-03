@@ -249,7 +249,30 @@
         "Amn"
       ],
       "bonus": [
-        ""
+        "Weapons",
+        "+2 To All Skills",
+        "+25-35% Faster Cast Rate (varies)",
+        "+55% Faster Hit Recovery",
+        "Adds 1-50 Lightning Damage",
+        "Adds 3-14 Cold Damage 3 Second Duration (Normal)",
+        "+75 Poison Damage Over 5 Seconds",
+        "7% Life Stolen Per Hit",
+        "+250 Defense Vs. Missile",
+        "+22 To Vitality",
+        "+89-112 To Mana (varies)",
+        "+3-8 Magic Absorb (varies)",
+        "Shields",
+        "+2 To All Skills",
+        "+25-35% Faster Cast Rate (varies)",
+        "+55% Faster Hit Recovery",
+        "+250 Defense Vs. Missile",
+        "+22 To Vitality",
+        "+89-112 To Mana (varies)",
+        "Cold Resist +35%",
+        "Lightning Resist +35%",
+        "Poison Resist +35%",
+        "+3-8 Magic Absorb (varies)",
+        "Attacker Takes Damage of 14"
       ],
       "era": "1.10",
       "level": 25
