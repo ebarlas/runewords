@@ -1758,7 +1758,28 @@
         "Jah"
       ],
       "bonus": [
-        ""
+        "Weapons",
+        "100% Chance To Cast level 40 Blaze When You Level-up",
+        "40% Chance To Cast Level 22 Firestorm On Striking",
+        "Level 10-15 Redemption Aura When Equipped (varies)",
+        "+350-400% Enhanced Damage (varies)",
+        "Ignores Target's Defense",
+        "14% Mana Stolen Per Hit",
+        "-28% To Enemy Fire Resistance",
+        "20% Deadly Strike",
+        "+350-400 Defense Vs. Missile (varies)",
+        "+15-21 Fire Absorb (varies)",
+        "Shields",
+        "100% Chance To Cast level 40 Blaze When You Level-up",
+        "40% Chance To Cast Level 22 Firestorm On Striking",
+        "Level 10-15 Redemption Aura When Equipped (varies)",
+        "+350-400 Defense Vs. Missile (varies)",
+        "+350-400% Enhanced Damage (varies)",
+        "-28% To Enemy Fire Resistance",
+        "+50 To Life",
+        "+5% To Maximum Lightning Resist",
+        "+10% To Maximum Fire Resist",
+        "+15-21 Fire Absorb (varies)"
       ],
       "era": "1.10",
       "level": 65
